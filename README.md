@@ -1,14 +1,4 @@
-
 # Modelo forecast bitcoin
-
-Nesse projeto de forecast modelo previsão bitcoin utlizando modelos ARIMA, SARIMA, SARIMAX como vai está o valor do bitcoin no futuro uma previsão. 
-Algumas ferramentas vai ser utilizada python autoarima, statsmodels, fbprophet.
-
-No segundo projeto modelo processamento de linguagem natural análise de sentimentos e extração de tópicos, utlizando modelo LDA para fazer extração dos textos mais comentados.
-
-Bases de dados foi extraida site do kaggle, e uma API em python extração dos dados.
-
-
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -34,6 +24,13 @@ Bases de dados foi extraida site do kaggle, e uma API em python extração dos d
 [![](https://img.shields.io/badge/Scikit_Learn-green.svg)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
+
+Nesse projeto de forecast modelo previsão bitcoin utlizando modelos ARIMA, SARIMA, SARIMAX como vai está o valor do bitcoin no futuro uma previsão. 
+Algumas ferramentas vai ser utilizada python autoarima, statsmodels, fbprophet.
+
+No segundo projeto modelo processamento de linguagem natural análise de sentimentos e extração de tópicos, utlizando modelo LDA para fazer extração dos textos mais comentados.
+
+Bases de dados foi extraida site do kaggle, e uma API em python extração dos dados.
 
 
 ![Logo](https://img.freepik.com/fotos-gratis/fundo-azul-da-tecnologia-do-grafico-do-mercado-de-acoes_53876-124650.jpg?w=1380&t=st=1661115158~exp=1661115758~hmac=25e7f89b88a5a4ee4e2e25be218a3548418dd4623bf2999136bb453fa2e754ef)
