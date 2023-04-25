@@ -33,7 +33,7 @@ No segundo projeto modelo processamento de linguagem natural análise de sentime
 Bases de dados foi extraida site do kaggle, e uma API em python extração dos dados.
 
 
-![Logo](https://img.freepik.com/fotos-gratis/fundo-azul-da-tecnologia-do-grafico-do-mercado-de-acoes_53876-124650.jpg?w=1380&t=st=1661115158~exp=1661115758~hmac=25e7f89b88a5a4ee4e2e25be218a3548418dd4623bf2999136bb453fa2e754ef)
+![Logo](https://img.freepik.com/fotos-gratis/o-bitcoin-dourado-nas-maos-do-correio_155003-8473.jpg?w=1060&t=st=1682440631~exp=1682441231~hmac=5045c8c71d1f049c42b2f755fc76a36c89204c383cad0dea7bfd8396e240dfe8)
 
 
 ## Autores
