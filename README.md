@@ -102,12 +102,10 @@ jupyter notebook
 
 ## Descrição projetos
 
-| Nome do projeto               | Link                                                |
+| Nome              | Link base dados                                              |
 | ----------------- | ---------------------------------------------------------------- |
 | Bitcoin - Série temporal | [Link projeto](https://www.kaggle.com/datasets/varpit94/bitcoin-data-updated-till-26jun2021)|
 | Bitcoin Tweets - NLP | [Link projeto](https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets)|
-| API Tweets - NLP | [Link projeto]()|
-| API Bitcoin - Série temporal | [Link projeto]()|
 
 ## Screenshots
 
